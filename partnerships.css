@@ -18,8 +18,8 @@
 .btn{
   font-family: 'Open Sans',sans-serif;
   color: white;
-  background: #33CCCC;
-  border-color: #33CCCC;
+  background: #FCE38A;
+  border-color: #FCE38A;
   border-radius: 25px;
   padding-bottom: 10px;
   width: fit-content;
@@ -41,7 +41,7 @@ a {
 }
 section .btn{
     color: #fff;
-    background: #33CCCC;
+    background: #FCE38A;
     width: 150px;
     height: 40px;
     border-radius: 25px;

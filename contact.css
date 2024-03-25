@@ -21,8 +21,8 @@ a {
 .container button {
   font-family: 'Open Sans',sans-serif;
   color: white;
-  background: #33CCCC;
-  border-color: #33CCCC;
+  background: #FCE38A;
+  border-color: #FCE38A;
   border-radius: 25px;
   padding-bottom: 10px;
   width: fit-content;
@@ -34,7 +34,7 @@ a {
 
 /* section .btn{
     color: #fff;
-    background: #33CCCC;
+    background: #FCE38A;
     width: 150px;
     height: 40px;
     border-radius: 25px;
@@ -141,12 +141,12 @@ label {
     border-radius: 25px;
     box-sizing: border-box;
     resize: vertical;
-    border-color: #33cccc;
+    border-color: #FCE38A;
 }
 
 /* Add styles to show 'focus' of selector */
 .input:focus {
-	border: 1px solid #33cccc;
+	border: 1px solid #FCE38A;
 }
 
 /* Style 'hover' property */

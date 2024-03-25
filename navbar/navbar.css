@@ -17,7 +17,7 @@ header ul {
 header {
     position: sticky;
     top: 0px;
-    background-color: #33CCCC;
+    background-color: #FCE38A;
     white-space: nowrap;
     width: 100%;
     z-index: 1001;
@@ -310,7 +310,7 @@ header #check:checked~.hamburger-menu-container .hamburger-menu div:after {
         top: 3.5rem;
         left: 0;
         width: 300px;
-        background-color: #33CCCC;
+        background-color: #FCE38A;
         flex-direction: column;
         justify-content: space-between;
         align-items: flex-end;

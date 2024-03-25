@@ -5,13 +5,7 @@
 
 @include media-breakpoint-up(md);
 
-/* All of Katie's pages' stuff */
 
-/* @media (min-width: 768px) {
-  #press-content-container h1 {
-    margin-bottom: -1rem;
-  }
-} */
 
 h2 {
   font-family: Montserrat, sans-serif;
@@ -30,8 +24,8 @@ h3 {
 #get-involved-content-container .btn, #press-content-container .btn {
   font-family: 'Open Sans',sans-serif;
   color: white;
-  background: #33CCCC;
-  border-color: #33CCCC;
+  background: #FCE38A;
+  border-color: #FCE38A;
   border-radius: 25px;
   padding-bottom: 10px;
   width: fit-content;
@@ -59,7 +53,7 @@ h3 {
   font-weight: bold;
   font-size: 22px;
   font-family: Montserrat;
-  color: #33CCCC;
+  color: #FCE38A;
   padding-top: 8px;
 }
 
